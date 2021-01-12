@@ -1,2 +1,2 @@
 # me
-My dotfiles, settings, preferences, and etc
+my stuff
