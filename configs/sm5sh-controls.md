@@ -4,7 +4,7 @@
 | ------- | ----------- | -------------------------------- |
 | ZL      | Shield      |                                  |
 | ZR      | Jump        |                                  |
-| L       | Grab        | Unused.                          |
+| L       | Special     | For C-stick macro specials.      |
 | R       | Grab        | Unused.                          |
 | X       | Grab        | For zairs.                       |
 | Y       | Shield      | For shield tilts.                |
