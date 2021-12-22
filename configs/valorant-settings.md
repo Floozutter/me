@@ -15,7 +15,7 @@ I like setting pointer speed to 5/10 (6/11) with acceleration (enhance pointer p
 ## General - Mouse
 | Key                          | Value | Note          |
 | ---------------------------- | ----- | ------------- |
-| Sensitivity: Aim             | 0.5   |               |
+| Sensitivity: Aim             | 0.3   |               |
 | Scope Sensitivity Multiplier | 1     |               |
 | Invert Mouse                 | Off   |               |
 | [Beta] RawInputBuffer        | On    | what this lol |
