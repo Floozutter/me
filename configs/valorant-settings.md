@@ -76,3 +76,30 @@ I like setting pointer speed to 5/10 (6/11) with acceleration (enhance pointer p
 | Movement Error Multiplier | 0     |
 | Firing Error              | Off   |
 | Firing Error Multiplier   | 0     |
+
+## Video - Graphics Quality
+| Key                     | Value |
+| ----------------------- | ----- |
+| Multithreaded Rendering | Off   |
+| Material Quality        | Low   |
+| Texture Quality         | Low   |
+| Detail Quality          | Low   |
+| UI Quality              | Low   |
+| Vignette                | Off   |
+| VSync                   | Off   |
+| Anti-Aliasing           | None  |
+| Anisotropic Filtering   | 1x    |
+| Improve Clarity         | On    |
+| Experimental Sharpening | On    |
+| Distortion              | Off   |
+| Bloom                   | Off   |
+| Cast Shadows            | Off   |
+
+## Video - Stats
+| Key                            | Value     |
+| ------------------------------ | --------- |
+| Performance: Client FPS        | Text Only |
+| Network: Network RTT Avg (Max) | Text Only |
+| Network: Packet Loss           | Text Only |
+
+Hide everything else by default.
