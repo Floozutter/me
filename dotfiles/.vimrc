@@ -24,3 +24,7 @@ set shiftwidth=4
 set softtabstop=4
 set listchars=tab:↹·,extends:⇉,precedes:⇇,nbsp:␠,trail:␠,nbsp:␣
 set fileformats=unix,dos
+
+" max line width visual
+set colorcolumn=100  " max of 99 characters per line
+highlight ColorColumn ctermbg=DarkGray guibg=DarkGray
