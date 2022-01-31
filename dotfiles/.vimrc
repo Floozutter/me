@@ -1,6 +1,6 @@
 " Floozutter's vimrc!
 
-" better safe than sorry!
+" explicitly enable Vi-incompatible Vim stuff (better safe than sorry!)
 set nocompatible
 
 " usability
