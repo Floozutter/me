@@ -30,6 +30,12 @@ I like setting pointer speed to 5/10 (6/11) with acceleration (enhance pointer p
 | ---------- | ------------------ |
 | Use Object | F / Mouse Wheel Up |
 
+## Controls - Communication - Voice Chat
+| Key                          | Value |
+| ---------------------------- | ----- |
+| Party Voice Push To Talk Key | N     |
+| Team Voice Push To Talk Key  | V     |
+
 ## Crosshair - General
 | Key                               | Value |
 | --------------------------------- | ----- |
