@@ -86,7 +86,7 @@ I like setting pointer speed to 5/10 (6/11) with acceleration (enhance pointer p
 ## Video - Graphics Quality
 | Key                     | Value |
 | ----------------------- | ----- |
-| Multithreaded Rendering | Off   |
+| Multithreaded Rendering | On    |
 | Material Quality        | Low   |
 | Texture Quality         | Low   |
 | Detail Quality          | Low   |
