@@ -36,6 +36,16 @@ I like setting pointer speed to 5/10 (6/11) with acceleration (enhance pointer p
 | Party Voice Push To Talk Key | N     |
 | Team Voice Push To Talk Key  | V     |
 
+## Controls - Communication - Radio Commands Menu
+| Key                       | Value |
+| ------------------------- | ----  |
+| Radio Commands Menu Index | F1    |
+
+## Controls - Interface - General
+| Key             | Value |
+| ----------------| ----- |
+| Open Map (Hold) | \`    |
+
 ## Crosshair - General
 | Key                               | Value |
 | --------------------------------- | ----- |
